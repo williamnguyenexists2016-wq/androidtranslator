@@ -1,0 +1,2 @@
+# androidtranslator
+translates
